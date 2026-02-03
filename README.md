@@ -20,7 +20,7 @@ Este projeto foi construído com:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript **
 
 ## 🚀 Como usar
 
